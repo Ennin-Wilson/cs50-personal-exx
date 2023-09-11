@@ -1,3 +1,4 @@
 {
-	"cSpell.words": ["msword"]
+	"cSpell.words": ["msword"],
+	"python.analysis.typeCheckingMode": "basic"
 }
