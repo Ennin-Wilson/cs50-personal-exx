@@ -11,7 +11,8 @@ The Emoticon to Emoji Converter is a Python program that transforms emoticons in
    
 Example:
 
-Enter text: Hello :) why are you sad :(
+Enter text: Hello :) why are you sad :( 
+
 Output: Hello 😄 why are you sad 🙁
 
 The program will display the input text with emoticons replaced by emojis.
